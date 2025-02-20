@@ -1,2 +1,21 @@
-# SimonSays
-**Simon Says Game** is a fun memory-based game where players must repeat an increasing sequence of colors, sounds, or commands. The game challenges concentration and reaction speed, getting harder with each round. Follow the sequence correctly to keep playing—one mistake, and it's game over! 🚀
+# Simon Says Game 🎮
+
+A fun and interactive memory-based game where players follow a sequence of commands. Built using [HTML,CSS,JAVASCRIPT].
+
+## 🚀 Features
+- Randomly generated sequences
+- Increasing difficulty as you progress
+- Score tracking
+
+## 🛠️ Technologies Used
+- HTML, CSS, JavaScript (for a web-based game)
+
+## 📜 How to Play?
+1. Press any key to begin.
+2. A sequence of colors or sounds will play.
+3. Repeat the sequence by clicking or pressing keys.
+4. The sequence gets longer with each round.
+5. If you make a mistake, the game ends.
+
+
+
