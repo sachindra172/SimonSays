@@ -18,7 +18,7 @@ A fun and interactive memory-based game where players follow a sequence of comma
 5. If you make a mistake, the game ends.
    
 ## 🔧 Installation
-1. Clone the repository:
+1. Clone the repository:https://github.com/sachindra172/SimonSays.git
 
 
 
