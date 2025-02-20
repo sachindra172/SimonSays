@@ -16,6 +16,9 @@ A fun and interactive memory-based game where players follow a sequence of comma
 3. Repeat the sequence by clicking or pressing keys.
 4. The sequence gets longer with each round.
 5. If you make a mistake, the game ends.
+   
+## 🔧 Installation
+1. Clone the repository:
 
 
 
